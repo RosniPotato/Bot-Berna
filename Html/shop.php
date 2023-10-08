@@ -15,7 +15,7 @@
 
         <div> 
             <ul id="navbar">
-                <li> <a href="/index.php ">Home</a></li>
+                <li> <a href="index.php ">Home</a></li>
                 <li><a href="about.php ">About us</a></li>
                 <li><a href="Info.php ">Plant Care</a></li>
                 <li><a class="active " href="shop.php ">Shop</a></li>
@@ -35,7 +35,7 @@
 
     <section id="product1" class="section-p1">
         <div class="pro-container">
-            <div class="pro" onclick="window.location.href='sproduct1.html';">
+            <div class="pro" onclick="window.location.href='sproduct1.php';">
                 <img src="Asset/money plant3.png " alt=" ">
                 <div class="des">
                     <span>Plant</span>

@@ -70,7 +70,7 @@
         <h2>Featured Product</h2>
         <p>Home Green Plants</p>
         <div class="pro-container">
-            <div class="pro" onclick="window.location.href='sproduct.html';">
+            <div class="pro" onclick="window.location.href='sproduct1.php';">
                 <img src="Asset/money-plant.jpg" alt=" ">
                 <div class="des">
                     <span>Money Plant</span>

@@ -110,7 +110,7 @@ session_start();
         <h2>Buy green plants</h2>
         <h1>Make home more lively</h1>
         <p>Buy 10 Plants & get 2 free!</p>
-        <button>Shop Now</button>
+        <!-- <button>Shop Now</button> -->
         </div>
         <!-- <img src="Asset/group22.png" alt="" > -->
     </section>
